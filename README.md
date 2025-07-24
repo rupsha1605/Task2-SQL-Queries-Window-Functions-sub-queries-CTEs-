@@ -41,5 +41,10 @@ Fields:
 - `Last_Name`
 - `Phone`
 - `city`
+---
+Tools Used:
 
+1. phpAdmin
+2. Notepad
+3. Excel
 
