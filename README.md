@@ -1,6 +1,21 @@
 # Task2-SQL-Queries-Window-Functions-sub-queries-CTEs-
 
+"COMPANY": CODTECH IT SOLUTIONS
 
+"NAME": RUPSHA MONDAL
+
+"INTERN ID": CT06DH472
+
+"DOMAIN": SQL
+
+"BATCH DURATION": 6 WEEKS
+
+"MENTOR NAME": NEELA SANTHOSH KUMAR
+
+This repository contains tasks completed during my internship at Codtech IT Solutions Pvt. Ltd.
+The goal of these tasks is to strengthen my SQL and data handling skills using joins, subqueries, and real-world data manipulation.
+
+---
 
 Data Analysis with Complex SQL Queries
 ---
